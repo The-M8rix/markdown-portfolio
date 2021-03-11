@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+### My Favourite Things
+- Minecraft
+- YouTube
+- Reddit
+- Twitch
+- Computers
