@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Linus Tech Tips](https://pbs.twimg.com/media/D7ShRPYXoAA-XXB?format=jpg&name=4096x4096)
